@@ -1,3 +1,3 @@
 # Data Expedition
 
-Data expedition on agricultural grants in the State of Jalisco
+Data exploration on agricultural grants in the State of Jalisco
